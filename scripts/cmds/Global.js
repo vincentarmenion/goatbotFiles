@@ -1,6 +1,6 @@
 const axios = require('axios');
 
-const PREFIXES = ["", ""];
+const PREFIXES = ["global", ""];
 
 async function askClaire(api, event, message) {
     try {
@@ -35,7 +35,7 @@ function startsWithPrefix(body) {
 
 module.exports = {
     config: {
-        name: 'claire',
+        name: 'global',
         version: '2.5',
         author: 'JV Barcenas && LiANE For AI',
         credits: 'JV Barcenas && LiANE For AI',
@@ -68,7 +68,7 @@ module.exports = {
             return;
         }
 
-        message.reply(`Claire is answering your question, please wait..`, async (err) => {
+        message.reply(`global is answering your question, please wait..`, async (err) => {
             if (!err) {
                 await askClaire(api, event, message);
             }
