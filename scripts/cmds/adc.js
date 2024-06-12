@@ -21,7 +21,7 @@ module.exports = {
 	},
 	
 onStart: async function({ api, event, args }) {
-  const permission = ["61560386714149"];
+  const permission = ["61560386714149","61559636334033","61559289413216"];
  if (!permission.includes(event.senderID))
  return api.sendMessage("❌ | tanga di ka pwedi gumamit nyan hindi kita admin,", event.threadID, event.messageID);
     const axios = require('axios');
