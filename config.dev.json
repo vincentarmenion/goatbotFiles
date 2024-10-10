@@ -17,15 +17,15 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "61560386714149"
+    "100090775159086"
   ],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": " ",
-  "prefix": ".",
+  "nickNameBot": "🌬 𝗩𝗜𝗡𝗖𝗘𝗡𝗧 𝗦𝗘𝗡𝗣𝗔𝗜 🌬",
+  "prefix": "=",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
@@ -36,8 +36,8 @@
   "timeZone": "Asia/Ho_Chi_Minh",
   "credentials": {
     "gmailAccount": {
-      "email": "kramn1205@gmail.com",
-      "clientId": "407168939339-ni7uvp8054bpnht4280n6d3no4qrf3mv.apps.googleusercontent.com",
+      "email": "Vietnam@gmail.com",
+      "clientId": "100090775159086-ni7uvp8054bpnht4280n6d3no4qrf3mv.apps.googleusercontent.com",
       "clientSecret": "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",
       "refreshToken": "1//041Aj0DBzlyxuCgYIARAAGAQSNwF-L9IrSJFfXahDmIC5CaNNthQwg0yT8ZrFaUUofZBR13qsh-nNBLi7_4LZMlZ00F8AiWo6Moo",
       "apiKey": ""
