@@ -30,7 +30,7 @@
         "expirationDate": 1733367534.709265,
         "hostOnly": false,
         "httpOnly": true,
-        "name": "fr",
+        "name": "tl",
         "path": "/",
         "sameSite": "no_restriction",
         "secure": true,
