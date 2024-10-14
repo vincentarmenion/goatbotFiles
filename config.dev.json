@@ -5,7 +5,7 @@
     "2FASecret": "",
     "i_user": "",
     "proxy": null,
-    "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36",
+    "userAgent": "Vincent-/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36",
     "intervalGetNewCookie": 1440,
     "notes": "time the system automatically retrieves new cookies from email/password, unit is minute, if you set null, the system will not automatically retrieve new cookies, it saves you from having to manually change your cookie every time it expires. recommended set to 1440 (1day) or 4320 (3day).TO BE ABLE TO USE THIS FEATURE YOU NEED TO ENTER THE ACCOUNT PASSWORD ABOVE"
   },
@@ -17,14 +17,14 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "61560386714149"
+    "100090775159086"
   ],
   "whiteListMode": {
     "enable": false,
-    "whiteListIds": [],
+    "whiteListIds": [100090775159086],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": " ",
+  "nickNameBot": "➠ 𝗭𝗘𝗣𝗛𝗩𝟮 ⧽⧽「 𝗈𝗐𝗇𝖾𝗋: 𝐕𝐈𝐍𝐂𝐄𝐍𝐓 𝐁𝐎𝐓",
   "prefix": ".",
   "database": {
     "type": "sqlite",
