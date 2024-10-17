@@ -3,9 +3,9 @@ const { writeFileSync } = require("fs-extra");
 
 module.exports = {
 	config: {
-		name: "admin",
+		name: "Yanzen bot",
 		version: "1.5",
-		author: "NTKhang",
+		author: "Vin-cent",
 		countDown: 5,
 		role: 2,
 		shortDescription: {
